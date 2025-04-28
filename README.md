@@ -1,4 +1,5 @@
 === E-Commerce Website ===
+
 Contributors: Joseph Justine
 Tags: ecommerce, woocommerce, online store, shopping, marketplace
 Requires at least: PHP 7.4, WooCommerce 5.0 (if applicable)
